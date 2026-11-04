@@ -1,0 +1,80 @@
+[00:00.000 --> 00:08.200]  Estoy nuevamente reunido con el doctor Real, ¿me das autorización para poder grabar esta conversación?
+[00:08.200 --> 00:09.800]  Sí, sí, todo bien.
+[00:09.800 --> 00:13.400]  Excelente, listo. En este caso, te voy a hacer unas cuantas preguntas más.
+[00:13.400 --> 00:17.000]  Estas son relacionadas con las cotizaciones que hemos estado revisando.
+[00:17.000 --> 00:25.600]  En la primera encontramos que hay dos versiones de la misma cotización que tienen cambios en las especificaciones y en el importe.
+[00:25.600 --> 00:29.600]  ¿Qué ocurrió entre una versión y la otra y qué origina esos cambios?
+[00:29.600 --> 00:40.800]  Lo que pasa es que la manera como yo trabajo, como se trabajan las cotizaciones, es parte del orden que llevo, que se lleva de manera interna.
+[00:40.800 --> 00:49.400]  En un principio, lo que se hace como una ayuda de memoria es hacer el cuadro de la cotización y en Excel, y ahí mismo abrir pestañas,
+[00:49.600 --> 00:52.600]  en las cuales nos permite llevar los costos reales.
+[00:52.600 --> 01:00.400]  Poco a poco, una vez que ya se van aprobando, poner el costo de proveedores, lo que es la inversión,
+[01:00.400 --> 01:06.400]  versus el costo de precio de venta final y luego de eso se calcula la ganancia.
+[01:06.400 --> 01:14.200]  Cuando todo esto ya está mapeado, cuando todo esto ya está ordenado y definido, cuando el cliente ya probó, ya adelantó, se está produciendo,
+[01:14.200 --> 01:16.200]  hay ciertos ajustos que se pueden hacer con los proveedores.
+[01:16.200 --> 01:23.800]  Entonces esos montos pueden ir variando hasta el momento del pavo y eso nos ayuda a qué?
+[01:23.800 --> 01:29.200]  A pasarlo a nuestro cuadro de ventas con los montos reales.
+[01:29.200 --> 01:36.500]  Y bueno, claro, la primera pestaña que tú ves es la cotización que se pedefetea y se le manda el cliente como la formalidad.
+[01:36.500 --> 01:43.200]  Y los siguientes son un control ya interno que nos ayuda a tener más o menos el flujo de los gastos, inversión y ganancia.
+[01:44.200 --> 01:50.200]  Cuando se producen ese tipo de cambios, hay partes de trabajo que tengan que realizar nuevamente, que tengan que hacer de cero?
+[01:50.200 --> 01:59.200]  Sí, claro, puede variar, por ejemplo, si el cliente tiene su primer requerimiento, tiene una cantidad de unidades, por así decirlo,
+[01:59.200 --> 02:06.200]  o en el caso de, creo que si fuese unidades o si fuese un servicio detallado con materiales,
+[02:07.200 --> 02:13.200]  en el proceso de los ajustes y todo puede ir agregando cosas, como puede ir retirando.
+[02:13.200 --> 02:19.200]  Y claro, nosotros hacemos como una proyección de lo que va a costar.
+[02:19.200 --> 02:28.200]  Sin embargo, por cada cambio que se desarrolle, por cada incremento de los servicios, esos montos van a ir moviéndose hasta poder sacar el final.
+[02:28.200 --> 02:34.200]  Hasta que el cliente ya que, ok, no necesito más, todo está perfecto, esto es lo que necesito y ahí salen los montos reales.
+[02:34.200 --> 02:40.200]  Y bueno, una acotación, también lo que puede variar es, por ejemplo, yo puedo tener costos fijos,
+[02:40.200 --> 02:47.200]  en los cuales yo sé cuánto cuestan los productos y los materiales, pero si me piden volumen, estos montos se pueden ajustar.
+[02:47.200 --> 02:54.200]  El proveedor, claro, por volumen me los puede dejar más baratos, entonces también esos montos fijos de inversión también pueden moverse un poco.
+[02:55.200 --> 03:02.200]  Ok, ahora, aparte de las dos versiones que estaban, ¿hay más versiones de desarchivo o de acotización?
+[03:02.200 --> 03:04.200]  O las que registras son las...
+[03:04.200 --> 03:14.200]  No, es básicamente, esa es la proyección y el flujo que se maneja de manera interna hasta que ya está el final y se pasa al cuadro de ventas, ¿no?
+[03:14.200 --> 03:20.200]  Como tal. Ahora, ¿qué podría variar cuando de repente los pedidos son muy concretos?
+[03:20.200 --> 03:27.200]  No, son algo muy específico que ya conocemos los montos y que pues no son variables, ¿no?
+[03:27.200 --> 03:36.200]  Podría ser, por ejemplo, servicio de implementación, mano de obra, ya sabemos cuánto se cobra por hora, por personal,
+[03:36.200 --> 03:41.200]  entonces esas cosas no varían y solamente se maneja una sola pestaña, ¿no?
+[03:41.200 --> 03:46.200]  Que es la de la acotización que se pdfitea y se manda al cliente.
+[03:47.200 --> 03:52.200]  En la segunda acotización encontramos una hoja de procesos de gastos.
+[03:52.200 --> 03:56.200]  ¿En qué momento del proceso se utiliza y quién la completa o la actualiza?
+[03:56.200 --> 04:00.200]  Bueno, la completo yo, ¿no? Bueno, dependiendo del servicio, ¿no?
+[04:00.200 --> 04:07.200]  Porque te había mencionado en la entrevista anterior de que hay un jefe de producción que se encarga de todo el tema de la optimización de materiales
+[04:07.200 --> 04:12.200]  cuando se trata de estructuras o de implementación de mobiliario o stands.
+[04:12.200 --> 04:18.200]  En el caso de que sea productos publicitarios y todo lo que es ese proceso, ¿no?
+[04:18.200 --> 04:22.200]  Los procesos de merchandising los manejo yo, ¿no?
+[04:22.200 --> 04:27.200]  Que es mi área directa y ¿qué cosa, cuándo se utiliza?
+[04:27.200 --> 04:30.200]  Bueno, se utiliza cuando el cliente ya tiene los productos.
+[04:30.200 --> 04:34.200]  O sea, yo le mando un catálogo, el cliente elige y en base a eso se le hago la acotización.
+[04:34.200 --> 04:41.200]  El cliente me dice, ok, quiero tantas cantidades y ahí es cuando yo empiezo ya a sentar los precios con los proveedores, ¿no?
+[04:41.200 --> 04:47.200]  Para los importadores con los que trabajo y ahí yo misma lleno esos datos porque eso me va a permitir a mí saber, ok,
+[04:47.200 --> 04:54.200]  esto es lo que me cuesta la inversión, sacar el porcentaje de ganancia y cuánto es lo que se le va a pedir al cliente de adelanto
+[04:54.200 --> 04:56.200]  para poder iniciar el trabajo y todo, ¿no?
+[04:56.200 --> 05:00.200]  Entonces, eso es lo que ayuda a tener en claro esos montos.
+[05:00.200 --> 05:07.200]  Ok, entonces para dejarlo claro, en los mismos documentos trabajas una hoja de control interno,
+[05:07.200 --> 05:14.200]  que son los requisitos internos y una que es la versión limpia que vuelves un PDF y se la mandas al cliente.
+[05:14.200 --> 05:15.200]  Exacto, sí.
+[05:15.200 --> 05:22.200]  Para mí es importante tener ese en el mismo archivo porque comprenderás que tenemos una acotización para cada cliente, ¿no?
+[05:22.200 --> 05:29.200]  Para cada servicio y para mí es importante, quizás el proceso es un poco a la antigua, ¿no?
+[05:29.200 --> 05:37.200]  Porque en cada Excel por cliente voy abriendo pestañas que me ayudan a mantener el control de ese cliente de manera puntual, ¿no?
+[05:37.200 --> 05:44.200]  Sin embargo, para mí es una ayuda tener, trabajarlo y tener ese flujo para que posteriormente, de manera ordenada,
+[05:44.200 --> 05:47.200]  ya lo paso a mi cuadro de ventas y gastos, ¿no?
+[05:47.200 --> 05:54.200]  Ok, bueno, eso pronto ya lo sabemos.
+[05:54.200 --> 05:58.200]  Eso también lo hemos entendido.
+[06:06.200 --> 06:13.200]  Ok, y bueno, ¿este tipo de modificaciones es habitual o hay una razón por la cual uno, por ejemplo,
+[06:13.200 --> 06:17.200]  tenga solo dos hojas y otro tenga más?
+[06:17.200 --> 06:21.200]  Sí, como te comentaba hace un momento, esto va a depender mucho del servicio, ¿no?
+[06:21.200 --> 06:26.200]  Cuando es mucho volumen, por ejemplo, en la acotización había como 3, 4 items que el cliente pedía, ¿no?
+[06:26.200 --> 06:34.200]  Cuando son muchos items sí me ayuda mucho a ordenar porque son, puede ser, no sé, 50 de un producto, 100 de otro, 40 de otro
+[06:34.200 --> 06:36.200]  y a mí me ayudan así a mantenerlo ordenado.
+[06:36.200 --> 06:41.200]  Como te comentaba, si fuese cosas, temas de implementación o servicios de mano de obra,
+[06:41.200 --> 06:48.200]  servicios como tal, ¿no? O cosas muy específicas o un solo item, no es necesario, ¿no?
+[06:48.200 --> 06:55.200]  Porque esto de frente se va al flujo de ventas y inversión, ¿no? Ventas y gastos.
+[06:55.200 --> 07:00.200]  Ok, y bueno, para cerrar, disculpas si ya me respondiste, solo para tenerlo claro.
+[07:00.200 --> 07:04.200]  En las diferentes hojas que hay en la segunda acotización,
+[07:04.200 --> 07:08.200]  ¿todas corresponden a modificaciones de una misma acotización?
+[07:08.200 --> 07:12.200]  ¿O son productos diferentes dentro del mismo trabajo o son procesos distintos?
+[07:12.200 --> 07:19.200]  Sí, justamente eso es que va a depender, vas a encontrar en la segunda hoja diferentes productos,
+[07:19.200 --> 07:25.200]  diferentes filas en las cuales va a especificar cosas distintas porque es de acuerdo a la cantidad,
+[07:25.200 --> 07:29.200]  el volumen y la cantidad o el tipo de producto que pide el cliente.
+[07:29.200 --> 07:32.200]  Ok, excelente, entonces eso sería todo lo que le dijimos por el momento.
+[07:32.200 --> 07:33.200]  Muy bien, muchísimas gracias.
+[07:33.200 --> 07:34.200]  Gracias a ustedes.
+[07:34.200 --> 07:35.200]  Hasta luego.

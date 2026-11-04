@@ -1,0 +1,24 @@
+Estimados estudiantes: revisé el documento EFSRT4_PA2_Grupo1.pdf. Lo mejor del documento es que escucharon al actor real y reformularon el problema cuando les dijo «No es lo que nos quita más tiempo». La nota es del equipo y se registra igual para cada integrante que figura en la portada. No se aplicó descuento por la fecha de envío.
+
+Rúbrica aplicada (criterio · peso · nivel · puntaje)
+
+Formulación del problema y su respaldo (30%) · Logrado · 16/20. El POV nuevo (precios confiables de lo tercerizado) no trae solución y la reacción de AR está fechada, con cita y el ajuste explicado. Pero hay tres versiones que no coinciden: la portada habla de proveedores, la sección 3 de "conocer el importe cuando el cliente modifica" (el foco anterior) y la redacción final pone "El AR" como usuario. Las evidencias citadas (H6, H7, H8) siguen siendo las del POV anterior.
+Amplitud y calidad de la ideación (20%) · Destacado (parcial) · 18/20. 25 ideas en cuatro familias con técnicas declaradas e indicando qué ideas salió de cada una (20 en 15, analogías, ideación por perfil). Caminos muy distintos entre sí. Falta la captura o foto del panel.
+Co-creación con el actor real (15%) · Destacado (parcial) · 18/20. Co-creación del 18/10 de 20 minutos con dos integrantes, cinco ideas mostradas, un aporte (combinar hoja de costos e historial; semáforo del proceso), un descarte con cita textual larga y lo que cambió. Falta el registro o las notas en anexo.
+Matriz de decisión y justificación (25%) · Logrado (parcial) · 14/20. Las cinco finalistas están puntuadas, pero no se escribieron los criterios antes de la tabla y las justificaciones repiten la opinión de AR en lugar de justificar cada puntaje. La "que más costó soltar" es la que AR descartó con 7 puntos, no una que les haya costado al equipo.
+Enfoque responsable (10%) · En proceso · 12/20. La sección 10 habla de riesgos de ideas que no se eligieron (proveedores, margen al cliente). Falta responder a quién podría perjudicar la hoja de costos compartida (acceso a precios y márgenes, quién la actualiza) y en la matriz todas tienen 3–4 en criterio responsable, sin efecto en la decisión.
+Cálculo: 16×0.30 + 18×0.20 + 18×0.15 + 14×0.25 + 12×0.10 = 15.80 → 16 (redondeo al entero superior).
+
+Fortalezas
+
+Reformularon el problema con evidencia nueva (AR-E3/E4).
+Ideación amplia, con técnicas trazables a ideas concretas.
+La co-creación descartó una idea por cómo trabaja realmente la empresa con proveedores.
+Qué corregir y sugerencias (para la S9 y la PA3)
+
+Unifiquen el POV en portada, sección 3 y redacción final: un solo usuario (la responsable comercial, no "el AR"), una sola necesidad y tres evidencias del foco nuevo (AR-E3, AR-E4 y H7).
+Escriban los tres criterios con su escala antes de la matriz y justifiquen cada puntaje por criterio, no solo con la opinión de AR.
+Elijan como "la que más costó soltar" una que el equipo defendía de verdad (p. ej., tarifas de temporada) y expliquen qué criterio la dejó fuera.
+Respondan la sección 10 sobre la idea elegida: quién ve los costos y márgenes, quién la actualiza, qué pasa si un precio vencido se usa como vigente.
+Adjunten los anexos obligatorios: matriz de vaciado, captura del panel, notas de la co-creación y evidencia de la reacción de AR.
+Quiten el texto de la guía al inicio ("08 Plantilla del PA2 · Copien esta estructura…").

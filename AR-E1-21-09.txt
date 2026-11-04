@@ -1,0 +1,149 @@
+[00:00.000 --> 00:08.880]  Ya, estamos grabando para el curso de SFRT4 por protección de identidad, no voy a decir
+[00:08.880 --> 00:13.200]  tu nombre, pero tenemos que informarte de que nosotros somos estudiantes ISIL, no usaremos
+[00:13.200 --> 00:18.320]  tu nombre y puede dejar de responder cuando quiera. ¿Podemos tomar notas o grabar audio?
+[00:18.320 --> 00:19.320]  Sí.
+[00:19.320 --> 00:24.920]  Ya, bien. Ahora, cuéntennos la última vez que realizaron una cotización para un cliente
+[00:24.920 --> 00:28.840]  de sinergia. ¿Cómo fue el proceso desde que recibieron la solicitud hasta que enviaron
+[00:28.840 --> 00:29.840]  la cotización?
+[00:29.840 --> 00:33.440]  A inicios del mes de septiembre.
+[00:33.440 --> 00:37.760]  ¿Ya? ¿Me puede contar el proceso?
+[00:37.760 --> 00:44.640]  Sí. El proceso es que el cliente manda un correo electrónico con un requerimiento específico
+[00:44.640 --> 00:51.000]  el cual nos solicita qué tipo de servicio quiere con las especificaciones técnicas
+[00:51.000 --> 01:05.600]  de lo que necesita, pone la fecha de entrega y nos da un plazo para nosotros poder entregar
+[01:05.600 --> 01:11.280]  la propuesta. Esa propuesta, como es un requerimiento específico y bastante extenso, porque es
+[01:11.280 --> 01:17.960]  detallado tanto en medidas, colores, etc., hay que hacerle un diseño específico para
+[01:18.960 --> 01:25.560]  costearlo, hacer un diseño y en base a ese diseño costear el despiece y toda la estructura
+[01:25.560 --> 01:28.360]  y todo lo que se va a realizar. Y ahí recién tenemos la cotización.
+[01:28.360 --> 01:37.880]  Ok. Pensando en las últimas semanas o este mes, digamos septiembre, ¿cuántas cotizaciones
+[01:37.880 --> 01:42.880]  realizan aproximadamente y por qué medios recibieron las solicitudes? Ahí me comentaste
+[01:42.880 --> 01:43.880]  por correo, ¿no?
+[01:43.880 --> 01:51.120]  Las solicitudes se reciben aproximadamente, son unas 7 o 8 cotizaciones al mes, dependiendo
+[01:51.120 --> 01:58.120]  también la temporada, porque esas son temporadas de ferias, por ejemplo, y todas las solicitudes
+[01:58.120 --> 02:04.600]  entran por medio de correo electrónico, claro, previamente enviado. Nosotros trabajamos con
+[02:04.600 --> 02:10.880]  una base de datos a la cual enviamos la presentación y quiénes somos y ellos responden con el
+[02:10.880 --> 02:13.480]  requerimiento que tengan en ese momento.
+[02:13.480 --> 02:19.440]  Ok. Ahora, volviendo a la última cotización, ¿qué información necesitaron para elaborarla?
+[02:19.440 --> 02:22.560]  ¿De dónde obtuvieron cada dato y quién era el responsable de mantener esa información
+[02:22.560 --> 02:23.560]  actualizada?
+[02:23.560 --> 02:28.600]  Ya, nosotros, o sea, perdón, ¿me puedes repetir la pregunta?
+[02:28.600 --> 02:35.120]  Sí. En la última cotización, ¿qué información necesitaron para elaborarla? ¿De dónde obtuvieron
+[02:35.120 --> 02:39.040]  cada dato? ¿Quién era el responsable de mantener la información actualizada?
+[02:39.200 --> 02:45.440]  Ya, con respecto al tema de cómo sabemos qué servicio vamos a cotizar, como decía,
+[02:45.440 --> 02:48.560]  el cliente manda un requerimiento específico. En el caso de la última cotización, por
+[02:48.560 --> 02:53.320]  ejemplo, fue un estampo licitario. Para nosotros poder hacer una cotización y poder saber
+[02:53.320 --> 02:56.880]  qué cosa es lo que le vamos a dar al cliente, el cliente tiene que hacer las especificaciones
+[02:56.880 --> 03:03.000]  de qué tipo de lugar tiene para exhibir, qué tipo de tamaño, si va a exhibir o no va a
+[03:03.560 --> 03:09.040]  exhibir máquinas, si necesita espacio para poner máquinas de pie o máquinas en vitrinas.
+[03:09.040 --> 03:13.760]  Entonces, con todo eso, nosotros lo que hacemos antes de generar un diseño es entrar a la
+[03:13.760 --> 03:19.520]  página web, el historial en redes, o sea, por Google, quién es el cliente, qué tipo
+[03:19.520 --> 03:25.360]  de participaciones ha tenido y qué tipo de maquinaria exhibe. Y con eso nosotros podemos
+[03:25.360 --> 03:29.920]  hacer el diseño que nos va a permitir a nosotros hacer el costeo. Quien está encargado de
+[03:29.920 --> 03:35.280]  mantener la información actualizada, soy yo, el área comercial, yo me dedico al tema
+[03:35.280 --> 03:39.560]  netamente comercial, el contacto con el cliente, y tengo que encargarme de que los datos estén
+[03:39.560 --> 03:45.000]  correctos, de que el tipo de máquinas que exhiben. Yo me pongo yo contra para investigar
+[03:45.000 --> 03:51.480]  al cliente antes de, a cualquier canal, que me pueda aparecer máquinas, pero sobre eso
+[03:51.480 --> 03:56.760]  no puedo realizar un diseño de una propuesta, sino tengo que encargarme de hablar con el
+[03:56.760 --> 04:01.040]  cliente para que me actualice si esas son las máquinas actuales o qué tipo de maquinaria
+[04:01.040 --> 04:06.200]  ellos van a exhibir hoy por hoy. O sea, depende de aprobación del cliente. Y depende, claro,
+[04:06.200 --> 04:10.400]  una vez que se hace el diseño, se le manda el cliente el diseño, el cliente aprueba el diseño
+[04:10.400 --> 04:13.960]  y después de la aprobación del diseño recién se hace la cotización, porque entonces podemos
+[04:13.960 --> 04:18.840]  mandar un diseño y el cliente puede pedir varios cambios, que se adapten a sus necesidades y
+[04:18.840 --> 04:24.240]  cuando tenemos el diseño final recién ahí se hace el coste. Ahora, claro, antes nosotros le
+[04:24.240 --> 04:28.520]  pasamos ya un estimado de cuánto le podría costar. Después de la aprobación recién tenemos el
+[04:28.520 --> 04:34.360]  monto exacto. Entonces podría decir que el proceso es un ir y venir con el cliente. Sí,
+[04:34.360 --> 04:39.760]  es una comunicación constante de ajustes y reajustes hasta poder lograr el final.
+[04:42.080 --> 04:48.840]  Ahora, cuéntame la última vez que una cotización tuvo que ser modificada o rehechada. ¿Qué origino
+[04:48.840 --> 04:54.440]  el cambio? ¿Qué tuvieron que repetir y cuánto tiempo adicional tomó? Antes de esa cotización nos
+[04:54.440 --> 05:00.800]  tocó otra, justamente de un cliente que tenía un espacio y todo. Nos pasa toda la información tal
+[05:00.800 --> 05:08.160]  cual y cuando le hicimos el diseño, se lo mandamos, al cliente le gustó muchísimo. Sin embargo,
+[05:08.160 --> 05:14.240]  por temas de espacios de sus máquinas nos pidió, por ejemplo, que quería retirar. O sea, nosotros
+[05:14.240 --> 05:18.560]  mandamos una propuesta que tenía ciertos mobiliarios. Nos pidió retirar el mobiliario.
+[05:18.560 --> 05:23.840]  ¿Por qué iba a exhibir otro tipo de productos? Luego de eso, tuvo un cambio y iba a exhibir otro
+[05:23.840 --> 05:28.680]  tipo de productos y nos hizo ir a no quitar del todo, sino a agregar. Tuvimos varios cambios en
+[05:28.680 --> 05:33.600]  cuanto a la implementación, básicamente. Su sustento no era muy grande y había que buscar
+[05:33.600 --> 05:39.240]  la mejor manera de que se optimizara. Sin mentirte, creo que es una de las cotizaciones de los últimos
+[05:39.240 --> 05:42.480]  tiempos, creo que es una de las cotizaciones más complicadas que hemos tenido porque hemos
+[05:42.480 --> 05:50.480]  tenido aproximadamente siete cambios. Nosotros, como parte de nuestros servicios, no limitamos
+[05:50.480 --> 05:58.400]  los cambios. ¿Para qué? Buscando que el cliente tenga lo que tiene en mente, lo que necesita
+[05:58.400 --> 06:02.880]  realmente, lo que le sea más funcional, que se lo tenga en su están, lo tenga en su exhibición.
+[06:02.880 --> 06:10.480]  Sin embargo, este cliente excedió. Normalmente estos cambios para un cliente no son más de tres.
+[06:11.040 --> 06:16.480]  La tercera ya lo tenemos. Fueron como siete o ocho cambios y eso nos demoró aproximadamente
+[06:16.480 --> 06:22.600]  tres semanas. Eso era un poco complicado. ¿Por qué? Porque la fecha donde hay que implementarlos
+[06:22.600 --> 06:31.040]  se acercaba y eso nos ajusta más los tiempos. Obviamente los últimos tres cambios de esa cotización
+[06:31.040 --> 06:35.640]  fueron una vez que ya habían aprobado el diseño. Quiere decir que después le habíamos cotizado y ya
+[06:35.640 --> 06:40.960]  tenemos los montos y de ahí vinieron más cambios con los que no contábamos y eso fue un problema
+[06:40.960 --> 06:47.040]  porque había que hacer tanto tanto el ajuste del diseño como el ajuste de los montos y es recalcular
+[06:47.040 --> 06:52.560]  sobre el recalculo y pues eso toma bastante tiempo porque hay que sentarnos a analizar y ver cómo
+[06:52.560 --> 07:02.920]  optimizar materiales y todo lo demás. Ahora cuéntame sobre una cotización reciente que
+[07:03.000 --> 07:08.040]  consideras que ha salido bien. ¿Cuánto demoró? ¿Qué resultados tuvo? ¿Qué características
+[07:08.040 --> 07:11.280]  hicieron que fuera una buena cotización tanto para ustedes como para el cliente?
+[07:11.280 --> 07:19.160]  Una de las cotizaciones que yo considero que ha salido bien es nuestra otra línea de negocios
+[07:19.160 --> 07:25.320]  que es productos personalizados que es todo lo que es marchandise publicitario. Nos contactó
+[07:25.320 --> 07:34.040]  una entidad educativa, un centro educativo privado el cual estaba buscando material de marchandising
+[07:34.040 --> 07:41.320]  para una promoción importante y bueno ¿cómo nos caracterizó? Salió bien, realmente todo bastante
+[07:41.320 --> 07:49.280]  bien. Inclusive hoy hemos recibido un mensaje de agradecimiento y felicitaciones por los productos
+[07:49.280 --> 07:53.840]  y creo que básicamente lo que logró el éxito es que nosotros siempre trabajamos con mock-ups que
+[07:53.840 --> 07:59.000]  son las muestras, el diseño de cómo quedaría el producto y con una muestra física. Esta muestra
+[07:59.000 --> 08:05.200]  física le permite a los clientes que puedan testear el producto, verlo en vivo y en directo
+[08:05.200 --> 08:10.960]  de que sea exactamente como se les ha prometido porque muchas veces sin comparar con nadie no
+[08:10.960 --> 08:14.720]  simplemente a muchas veces lo que pasa es que hacen mock-ups y al momento de dar el producto
+[08:14.720 --> 08:21.120]  final físico hay variaciones. En cambio nosotros esa muestra física nos permite a nosotros dar fe
+[08:21.120 --> 08:26.920]  de que el producto sale tal cual como el cliente lo quiere y bueno ellos nos pidieron una variedad
+[08:26.920 --> 08:32.720]  de productos, fueron seis productos de los cuales todos salieron perfectos, no hubieron margenes de
+[08:32.720 --> 08:39.200]  error, nosotros trabajamos de una manera en la cual cuando tenemos mermas lo subsanamos en el
+[08:39.200 --> 08:47.000]  momento, no entregamos productos con fallas y eso es calidad y el cliente lo valora y todo ha salido
+[08:47.000 --> 08:53.360]  perfecto agradecimiento y ninguna queja, ninguna sugerencia tampoco de mejora y considero que
+[08:53.360 --> 09:00.760]  también fue no solamente el producto final sino también ha sido el trato, que hayamos respondido
+[09:00.760 --> 09:06.640]  rápido, que las cotizaciones se entregaron a tiempo, que hubieron ajustes y esos ajustes se
+[09:06.640 --> 09:12.280]  manejaron en el momento también y sobre todo mucha comunicación fluida con el cliente, tanto para
+[09:12.280 --> 09:17.800]  poder despejar sus dudas como para poder indicarles el seguimiento, lo que hacemos, cómo vamos con su
+[09:17.800 --> 09:24.840]  pedido, mandarle fotos de los adelantos y eso nos ha permitido que inclusive ya una vez cerrado este
+[09:24.840 --> 09:31.400]  pedido se incrementó y eso dice mucho porque significa que a la gente le gustó el producto y
+[09:31.400 --> 09:41.240]  hubo gente que se sumó. Muy bien, ahora cuentan la última vez que una cotización demoró más de lo
+[09:41.280 --> 09:47.160]  esperado o se perdió una oportunidad por una demora, ¿qué ocurrió hoy y qué parte del proceso se
+[09:47.160 --> 09:55.960]  produjo ese retraso? Sí, bueno pues esto ya ha sido hace bastante tiempo, ahora le recuerdo como una
+[09:55.960 --> 10:03.200]  anegota pero sí definitivamente anteriormente nosotros tercerizábamos algunos servicios claro
+[10:03.200 --> 10:09.680]  por un tema de capacidad de espacios, de taller y todo lo demás y pues si bien es cierto podíamos
+[10:09.680 --> 10:15.360]  manejar precios fijos de cosas que nosotros ya podíamos controlar y teníamos también proveedores
+[10:15.360 --> 10:22.120]  que nos daban precios fijos, a veces pues ocurre que tenemos que cambiar, tenemos que buscar otras
+[10:22.120 --> 10:28.160]  opciones para poder optimizar costos, tener un poco más de rentabilidad y lo que más demora en ese
+[10:28.160 --> 10:34.640]  sentido, no hablo de alguien porque específicamente demoró, sino hablo en general de que ese tipo
+[10:34.800 --> 10:43.640]  de procesos, ese tipo de formas de hacer trabajo, de tercerizar es bastante complicado porque hay
+[10:43.640 --> 10:47.840]  que primero contactar a un nuevo proveedor, si tienes otro proveedor, si tienes un proveedor es
+[10:47.840 --> 10:54.440]  escribirles y pedirles que te den el costo de lo que tú vas a ofrecer, a eso hay que agregarle el
+[10:54.440 --> 11:00.960]  fee, el trabajo que se hace por control, por organizar, por controlar y supervisar, pero
+[11:01.280 --> 11:05.920]  ese tipo de cosas demoran mucho porque hay que esperar que la otra persona cambie en coste y si
+[11:05.920 --> 11:10.920]  el cliente lo necesita para hoy, por ejemplo, mucha gente, muchos proveedores no te responden
+[11:10.920 --> 11:15.200]  hasta después de 24 horas o hay que estar escribiendo y eso es un poco bastante tedioso,
+[11:15.200 --> 11:22.080]  yo creo que la decisión que nomás nos ha demorado, mira, si yo en tres días no me responden, yo,
+[11:22.080 --> 11:27.480]  o sea, no miento, si en tres días no, si en un día en la noche se hipotiza a las 12 y a las 5 de la tarde
+[11:27.480 --> 11:32.200]  no me responden y yo ya estoy buscando otro proveedor, no me quedo esperando porque el tiempo es dinero
+[11:32.200 --> 11:38.080]  tanto para nosotros como para el cliente y yo no puedo esperanzarme solamente en uno y perder el
+[11:38.080 --> 11:43.080]  tiempo con el cliente y sobre todo, pues no, eso también demorarte en dar una cotización al cliente,
+[11:43.080 --> 11:48.640]  al cliente le levanta en la suspicacia de que tú transferizas y con eso nada más pierdes la
+[11:48.640 --> 11:55.120]  confianza, por eso hay que ser rápidos en el tema y ahora que ya no transferizamos pues los flujos
+[11:55.200 --> 11:57.400]  ahora son muchísimo más rápidos y directos.
+[11:59.600 --> 12:08.560]  Muy bien, ok, en las cotizaciones recientes, qué pasos necesitaron revisión, validación o aprobación
+[12:08.560 --> 12:13.440]  antes de enviarlas al cliente, ¿quién intervino, quién se se encarga de verificar eso?
+[12:13.440 --> 12:19.960]  Normalmente para una aprobación, para enviar una cotización, en realidad mi trabajo es autónomo,
+[12:20.520 --> 12:27.000]  en cuestiones de los servicios, los productos, porque ya manejo los costos y todo, lleva directo.
+[12:27.000 --> 12:31.400]  En el caso de la línea de negocios de todo lo que es implementación comercial,
+[12:31.400 --> 12:38.960]  sí se necesita una aprobación y un acuerdo con el jefe de producción, ¿por qué? Porque esto
+[12:38.960 --> 12:44.320]  demanda una materia prima distinta, mientras para el merchandising son artículos que ya son
+[12:44.320 --> 12:49.880]  importados, directos y se personalizan directamente en el taller. En el caso de la implementación de
+[12:49.880 --> 12:55.280]  distance, como esto varía por medidas, por calidades, por diseños, todos esos factores,
+[12:56.600 --> 13:06.040]  literalmente como una construcción de un local o una tienda, quien maneja esto es el jefe de
+[13:06.040 --> 13:10.960]  producción, entonces él sabe de los costos de los materiales actualizados, por ejemplo, en una de las
+[13:10.960 --> 13:14.000]  preguntas que me hiciste es quién se encarga de mantenerlo actualizado, en este caso es él,
+[13:14.000 --> 13:19.240]  porque él está constantemente comprando material y sabe si es que las planchas de talla variaron
+[13:19.240 --> 13:24.960]  o subieron, entonces eso permite que, yo por ejemplo, si tengo un requerimiento se lo paso y me
+[13:24.960 --> 13:31.240]  dice, ya déjame costearlo, lo despiece, hace un, sin tener un diseño hecho, él rápidamente puede
+[13:31.240 --> 13:35.720]  crear en su cabeza qué es lo que se podría dar con la descripción del requerimiento del cliente,
+[13:35.720 --> 13:41.400]  ya más o menos calcula y se le podría costar tanto, ya cuando se hace el diseño y el cliente lo
+[13:41.400 --> 13:47.520]  prueba, él ya hace con las medidas exactas del stand y todos los detalles, ya sabe qué costo
+[13:47.680 --> 13:54.400]  esa carta es, qué pasa, que yo le paso, él me pasa todo el detalle, yo hago la cotización y se la vuelvo
+[13:54.400 --> 13:59.120]  a enviar a él para que pueda verificar que todo el material esté completo, que los costos estén
+[13:59.120 --> 14:03.760]  correctos, él me lo prueba y recién yo se la mando al cliente, en este caso sí funciona así.
+[14:05.280 --> 14:11.040]  Muy bien, esas serían todas las preguntas, creo que tengo bastante información, así que vamos a
+[14:11.040 --> 14:16.240]  analizarla, vamos a revisar qué podemos hacer y te volveré a contactar la próxima semana para
+[14:16.240 --> 14:20.640]  conversar de algo similar. De acuerdo, muchísimas gracias por tu tiempo. Muchas gracias.

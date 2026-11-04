@@ -1,0 +1,206 @@
+[00:00.000 --> 00:13.000]  Ya estamos aquí reunidos con el AR y el UNO. Me han dado su utilización para poder grabar esta sesión.
+[00:13.000 --> 00:21.000]  Mi compañero Daniel se va a encargar de hacerles unas preguntas, unas ideas que queremos proponerles en base al problema que nos mencionaron la otra vez.
+[00:22.000 --> 00:24.000]  Se lo acepto.
+[00:31.000 --> 00:32.000]  Hola Daniel.
+[00:32.000 --> 00:34.000]  Hola, ¿qué tal? Un gusto.
+[00:36.000 --> 00:48.000]  Con lo que nos contaron el 12 de octubre ajustamos cómo entendemos su problema y queremos confirmar con ustedes si ahora sí refleja lo que se vive.
+[00:49.000 --> 00:53.000]  Voy a presentar pantalla rápido para mostrar...
+[01:01.000 --> 01:02.000]  ¿Es con pantalla?
+[01:02.000 --> 01:05.000]  No, no. Lo voy a leer.
+[01:05.000 --> 01:23.000]  La responsable comercial que cotiza implementaciones en temporada de feria necesita contar oportunamente con precios confiables de los elementos que la empresa no fabrica, porque debe solicitar y comprar cotizaciones de proveedores externos cuyas respuestas pueden tardar entre uno y tres días.
+[01:28.000 --> 01:34.000]  ¿Sería realmente lo que pasa actualmente?
+[01:35.000 --> 01:55.000]  Sí, actualmente es lo que pasa. Siempre cuando se cotiza un servicio, por lo general siempre tarda entre uno o máximo tres días. Siempre tenemos una terna de tres empresas proveedoras para poder utilizar esos tiempos para obtener esos precios.
+[01:56.000 --> 02:06.000]  Claro, claro. Y cuando decimos precios confiables, ¿para ustedes qué significa precios confiables?
+[02:06.000 --> 02:30.000]  Precios confiables, bueno, uno que estén dentro de lo que manda el mercado, lo que indica el mercado, y que se ajusten a la propuesta que nosotros le hacemos llegar al cliente, para obviamente no elevar costos y siempre ser competitivos a la par de otras empresas del mismo robo.
+[02:36.000 --> 02:58.000]  Tenemos cinco ideas que salieron de nuestro trabajo. Queremos que las vean, las vamos a leer, y de ahí nos gustaría que nos den con total libertad cuál le serviría más, cuál no funcionaría, y no se preocupen por ser amables, la franqueza nos ayuda más.
+[02:58.000 --> 03:06.000]  Así que ahora sí presento pantalla. Y por acá me dicen si se ve bien.
+[03:07.000 --> 03:08.000]  Sí.
+[03:08.000 --> 03:14.000]  Perfecto. Ok, entonces, la primera idea es una hoja de costos va a ser compartida.
+[03:14.000 --> 03:15.000]  Sí, se ve bien.
+[03:15.000 --> 03:18.000]  La segunda es un historial de cotizaciones buscable.
+[03:18.000 --> 03:24.000]  El tercero es un formulario para que el proveedor registre su precio y su plazo de respuesta.
+[03:24.000 --> 03:29.000]  El cuarto son tarifas de temporada pactadas con proveedores.
+[03:29.000 --> 03:32.000]  Y el quinto es un semáforo de estado de cada costa.
+[03:32.000 --> 03:40.000]  Les doy unos segundos para que lean, para que piensen, y les vuelvo a decir lo que necesitamos.
+[03:41.000 --> 03:50.000]  Ya, una consulta, estas ideas son en base, soluciones a la problemática que tenemos, ¿correcto?
+[03:50.000 --> 03:51.000]  Sí, correcto.
+[03:51.000 --> 03:57.000]  ¿Nosotros debemos decir si esto es útil para nosotros o qué es lo que necesitan saber acerca de esto?
+[03:57.000 --> 04:05.000]  Lo que quisiéramos es que nos den, tal vez cuál no funcionaría y por qué obviamente no nos gustaría entender la razón.
+[04:06.000 --> 04:15.000]  Y claro, si combinarían tal vez algunas o si alguna le falta algo, por ahí va.
+[04:15.000 --> 04:19.000]  Tal vez empezamos como que de arriba abajo, empezando por la primera.
+[04:19.000 --> 04:27.000]  Ya, ok, con respecto a la hoja de costos de base compartida.
+[04:28.000 --> 04:36.000]  ¿Este tipo, esta hoja, a lo que se refiere con base compartida, quiere decir entre una y varias áreas?
+[04:37.000 --> 04:38.000]  Nico.
+[04:40.000 --> 04:41.000]  ¿Nico?
+[04:41.000 --> 04:42.000]  Sí, así es.
+[04:42.000 --> 04:43.000]  Ah, ya.
+[04:44.000 --> 04:49.000]  Sí, ok, o sea, quiere decir que el área de producción puede tenerla y compartirla con el área de ventas, etcétera.
+[04:49.000 --> 04:50.000]  Claro.
+[04:50.000 --> 04:51.000]  Ok.
+[04:51.000 --> 05:04.000]  Me parece una muy buena idea, la verdad, porque eso utilizaría mucho la comunicación más que todo, porque claro, nosotros estamos en el momento de la acción.
+[05:04.000 --> 05:11.000]  Una, pues hace seguimiento de venta o dentro del proceso de venta como ajustes.
+[05:11.000 --> 05:15.000]  Y este, y por ejemplo el área de producción está en campo, ¿no?
+[05:15.000 --> 05:24.000]  Entonces tener una base en la cual pueda ser alimentada en cualquier momento por cada área nos permite nosotros no solamente tener todo actualizado y alineado.
+[05:24.000 --> 05:25.000]  Claro.
+[05:25.000 --> 05:34.000]  No, sino también agilizar, porque si, por ejemplo, yo estoy haciendo mi proceso de ventas y el jefe de producción está en una obra y no puede contestar en ese momento, eso también retrasa.
+[05:34.000 --> 05:39.000]  Si lo tenemos todo compartido en una base, eso ayudaría a agilizarlo, ¿no?
+[05:39.000 --> 05:40.000]  Serlo más rápido.
+[05:40.000 --> 05:41.000]  Claro, perfecto.
+[05:41.000 --> 05:42.000]  Ok, ok.
+[05:42.000 --> 05:47.000]  Ahora, en cuanto al siguiente punto, el historial de cotización es buscable.
+[05:47.000 --> 05:52.000]  Ya, con respecto a eso, es útil, pero sería útil como una referencia.
+[05:52.000 --> 05:53.000]  ¿Por qué?
+[05:53.000 --> 06:00.000]  Porque justamente en alguna comunicación anterior les he mencionado de que los precios a veces se actualizan.
+[06:00.000 --> 06:08.000]  Y por lo mismo que se actualizan, entonces siempre tenemos que asegurarnos de que el precio que vayamos a decir es el correcto, ¿no?
+[06:08.000 --> 06:10.000]  O es el que está dentro del mercado en ese momento.
+[06:10.000 --> 06:20.000]  Sin embargo, si es que se demora mucho tiempo en responder, tener un historial nos ayuda a tener un punto de partida y sobre eso hacer un cálculo promedio y arriesgarnos, ¿no?
+[06:20.000 --> 06:30.000]  Porque a veces las cotizaciones se piden de un momento a otro con una prioridad altísima de parte del cliente por los tiempos.
+[06:30.000 --> 06:32.000]  Y eso nos ayuda a tener una referencia, ¿no?
+[06:32.000 --> 06:44.000]  Nosotros ya nos arriesgamos, claro, le incrementamos un poco en promedio a lo que podría pasar de cambiar costos en el mercado, pero sí nos da un punto de partida.
+[06:44.000 --> 06:46.000]  Perfecto, ok. Muchas gracias.
+[06:46.000 --> 06:52.000]  Ahora, en cuanto al tester, ¿punto el formulario para que el proveedor registre su precio y su plazo de respuesta?
+[06:52.000 --> 06:57.000]  Eso no me parece muy útil, honestamente. ¿Por qué?
+[06:57.000 --> 07:07.000]  Porque los proveedores son proveedores libres, o sea, nosotros no tenemos una cadena de proveedores por contrato, ¿no?
+[07:07.000 --> 07:14.000]  Si esto fuese así, claro, ellos tendrían el compromiso de periódicamente actualizar sus datos, sus precios, etc.
+[07:14.000 --> 07:26.000]  Pero no funciona de esa manera, ya que no solamente podemos trabajar con uno o con los antiguos, sino también podemos tener la libertad de conseguir nuevos en un nuevo presupuesto para un cliente.
+[07:26.000 --> 07:35.000]  Entonces, yo creo que eso sería un trabajo, o sea, quien alimentaría ese tipo de bases sería nosotros mismos, ¿no?
+[07:35.000 --> 07:41.000]  Y creo que ahí volvemos al punto número uno, ¿no? A la idea uno.
+[07:41.000 --> 07:47.000]  Claro, ok, perfecto. Bueno, ya las últimas, la cuarta tarifas de temporada pactadas con proveedores.
+[07:47.000 --> 07:54.000]  Eso sí se podría mantener. ¿Cómo lo manejaríamos? Bueno, en base a experiencia anterior, ¿no?
+[07:54.000 --> 08:04.000]  Por ejemplo, si hacemos productos, algún tipo de producto publicitario, ¿no? Alguna campaña publicitaria para los clientes.
+[08:04.000 --> 08:14.000]  Hay empresas que hacen productos de alta demanda, por ejemplo, en verano, ¿no? En temporada de playa, porque son eventos que se hacen al aire libre, etc.
+[08:14.000 --> 08:21.000]  Ya sabemos que en esa temporada los precios pueden aumentar hasta un 30%, ¿no?
+[08:22.000 --> 08:30.000]  Entonces, yo creo que lo importante ahí sería hablar con el proveedor de una manera general.
+[08:30.000 --> 08:37.000]  Por ejemplo, ¿no? ¿Vanejas precios de temporada? Sí, temporada baja, tenemos, esta es nuestra promoción,
+[08:37.000 --> 08:43.000]  pero siempre para verano, pues los precios incrementan, ¿no? Por alta demanda, en cuanto, en un 20%, por ejemplo.
+[08:43.000 --> 08:50.000]  Entonces, ahí nosotros tenemos más o menos, claro, es igual, el proceso es el mismo, ¿no? Actualizar en el momento,
+[08:50.000 --> 08:58.000]  pero sabiendo esto nos ayuda a acelerar un poco nuestro tiempo de respuesta para cotizar a un cliente.
+[08:58.000 --> 09:03.000]  Claro, claro, perfecto. Sí, sí, sí. Y a la última, el semáforo de estado de cada costo.
+[09:03.000 --> 09:09.000]  ¿Me podías explicar un poquito en qué consiste? Eso no lo voy a entender muy bien.
+[09:09.000 --> 09:16.000]  Sería, bueno, Nico, si estás por ahí, confirmas lo que voy a decir.
+[09:16.000 --> 09:25.000]  Más que nada, el semáforo mostraría en qué, por así decirlo, etapa del proceso está con cada costo.
+[09:25.000 --> 09:30.000]  No sé si son mis mejores palabras, pero tal vez Nicolás ahí puede sustentarlo mejor.
+[09:30.000 --> 09:42.000]  El semáforo más que nada porque funciona con indicadores, ¿no? Se va actualizando, dependiendo de la disponibilidad por el tiempo.
+[09:42.000 --> 09:46.000]  ¿Es así como el semáforo tiene valores? Claro.
+[09:46.000 --> 09:54.000]  Esto entendría que es como el precio se mantiene, el precio cambia, el precio subió, ¿algo así?
+[09:55.000 --> 09:57.000]  Exactamente, pero...
+[09:57.000 --> 09:59.000]  Tú se lo explicas mejor porque no entiendo.
+[09:59.000 --> 10:04.000]  El semáforo de estado de cada costo.
+[10:04.000 --> 10:15.000]  Yo lo que, bueno, Aya, si vamos a hablar del estado de cada, si es estado, lo que podría, lo que yo podría decir, más o menos,
+[10:15.000 --> 10:20.000]  es que, si se trata de estado, disculpa, disculpa que estaba un poco distraída.
+[10:20.000 --> 10:29.000]  Ya, podría ser, no sé si un estado de costo nos sirve, o sea, costo como tal,
+[10:29.000 --> 10:38.000]  sigo sin entenderlo muy bien, pero un estado de costo no lo veo útil, pero sí un estado del proceso de todo esto,
+[10:38.000 --> 10:48.000]  es decir, desde el momento que nosotros hacemos la cotización o la prospección, la cotización, el cierre, el avance,
+[10:48.000 --> 10:53.000]  el cliente da un adelanto, que este adelanto ayuda a la primera inversión de la producción,
+[10:53.000 --> 11:04.000]  ese estado de proceso de cómo va el cliente adelantó, el cliente hizo un segundo adelanto o el cliente ya canceló,
+[11:04.000 --> 11:11.000]  se hicieron los pagos correspondientes, o sea, eso sí nos sirve, porque es el proceso que nosotros vivimos día a día
+[11:11.000 --> 11:20.000]  y eso es algo un poco tedioso porque lo tiene que llevar mientras la persona de ventas vive todo ese proceso,
+[11:20.000 --> 11:30.000]  hace el control, no hay seguimiento, pues el área administrativa tiene que encargarse de validar y generar todos los comprobantes,
+[11:30.000 --> 11:39.000]  y luego el área de contabilidad es la que se encarga de ver que todos los procesos con la Sunat se cumplan.
+[11:39.000 --> 11:45.000]  Me dejó entender, no sé si por ahí va este punto, pero es algo bastante importante.
+[11:45.000 --> 11:49.000]  Sí, sí, claro, claro, claro. Sí, sí, con eso estamos.
+[11:49.000 --> 11:51.000]  ¿Cuántas preguntas más sobre esta parte?
+[11:51.000 --> 11:52.000]  Sí.
+[11:52.000 --> 12:05.000]  Por ejemplo, si tuviera que combinar alguna, por ejemplo, no sé si habrían un par de ideas que les interesaría combinar o no parece que se puedan cruzar.
+[12:05.000 --> 12:17.000]  Sí, yo creo que si hablamos de… mira, a mí algo que me interesó desde el momento que leí esta lista es esa base compartida.
+[12:17.000 --> 12:26.000]  Yo creo que esa base compartida no solamente se puede compartir, o sea, puede ser un consolidado que no solamente tenga costos,
+[12:27.000 --> 12:38.000]  sino que también tenga justamente los costos del proveedor o costos finales al cliente,
+[12:38.000 --> 12:41.000]  pero también pueda compartir justamente ese proceso.
+[12:41.000 --> 12:48.000]  ¿Por qué? Porque quienes manejamos esta información somos las personas encargadas,
+[12:48.000 --> 12:55.000]  o sea, las autoridades de la empresa que se encargan de la venta, el cierre y la ejecución.
+[12:55.000 --> 13:08.000]  Entonces, toda la información que nosotros mismos como jefes realizamos y colocamos ahí es todo lo que va a alimentar finalmente al área contable, por ejemplo, ¿no?
+[13:08.000 --> 13:17.000]  O al área administrativa, porque la administrativa también tiene que estar al tanto de todos los costos de inversión, la rentabilidad.
+[13:17.000 --> 13:22.000]  Entonces, yo creo que van de la mano el punto uno con el punto cinco, ¿no?
+[13:22.000 --> 13:32.000]  Y luego, o sea, claro, esto se comparte entre las partes comerciales y ejecutoras, ¿no?
+[13:32.000 --> 13:36.000]  Entonces, esta información va a alimentar al resto de áreas.
+[13:37.000 --> 13:48.000]  Ahí es donde algo muy útil que sería es justamente tener esa opción de extraer información.
+[13:48.000 --> 13:54.000]  Por ejemplo, el área de contabilidad puede tener, ya se cancelaron las facturas, ¿no?
+[13:54.000 --> 14:02.000]  Los números de facturas, ese tipo de cosas se podrían extraer específicamente para alimentar esa información que requiere dicha área.
+[14:03.000 --> 14:11.000]  No sé si me fui por las ramas, pero en conclusión lo que quería decir es que a mí me interesa mucho este tema de la base compartida, ¿no?
+[14:11.000 --> 14:21.000]  Porque eso ayudaría a consolidar la información, manejar lo que cada área pueda tener la información que requiere para culminar o seguir sus procesos.
+[14:21.000 --> 14:27.000]  Claro. Y bueno, con eso último iba a ir mi siguiente pregunta de estas ideas, ¿no?
+[14:27.000 --> 14:32.000]  La que probaría primero en este caso sería la idea número uno, ¿no? La hoja de costos base compartida.
+[14:32.000 --> 14:37.000]  Sí, claro, porque pienso que es la que abre camino a los demás.
+[14:37.000 --> 14:47.000]  Claro, claro. Y por último, ya para cerrar esta partecita de aquí, si tuviera que ordenarlas, obviamente tendríamos la hoja de costos base compartida como primera.
+[14:47.000 --> 14:51.000]  Entiendo que tal vez el semáforo como segunda.
+[14:52.000 --> 15:07.000]  Sí, es que mire, viéndolo así de manera, si quieres que lo enumere, si quieres que lo renumere del uno al cinco, yo pondría la uno como uno.
+[15:07.000 --> 15:12.000]  La dos, la dos para mí es como que va de la mano, ¿no?
+[15:12.000 --> 15:18.000]  Porque como te he dicho, eso sí nos ayuda para poder tener un punto de partida y optimizar tiempos.
+[15:18.000 --> 15:27.000]  Sí, pondría la número 5 como tres, ¿no? O sea, hoja de costos base compartida como uno.
+[15:27.000 --> 15:31.000]  El historial de cotizaciones que para mí va de la mano, ¿no?
+[15:31.000 --> 15:32.000]  Sí.
+[15:32.000 --> 15:42.000]  Pondría como número tres semáforo de estado de cada costo y como cuatro pondría las tarifas de temporada, ¿no? Eso sí.
+[15:42.000 --> 15:53.000]  Sí, que siempre es bueno tener actualizado, ver quiénes trabajan por campaña, tipo de incrementos o porcentaje de incrementos por campaña alta, ¿no? Ese tipo de cosas.
+[15:53.000 --> 15:59.000]  Claro, perfecto, listo. Sería todo eso con esta parte que voy a compartir.
+[15:59.000 --> 16:06.000]  Y ya estaríamos cerrando, lo último que me canso en un par de preguntas más y con eso ya terminaríamos.
+[16:06.000 --> 16:07.000]  Sí.
+[16:07.000 --> 16:09.000]  Ok, déjeme un sonidito.
+[16:10.000 --> 16:29.000]  Ok, queríamos pensar en quiénes podrían salir afectados por estas ideas que mostramos, ¿no? De por eso necesitamos experiencia. Por ejemplo, si se le pide a los proveedores responder a 24 horas, ¿podría ser más difícil tal vez para los proveedores pequeños?
+[16:29.000 --> 16:34.000]  No, increíblemente es más difícil para los proveedores grandes.
+[16:34.000 --> 16:36.000]  Ah, claro, ok.
+[16:36.000 --> 16:42.000]  Sí, porque un poquito de demanda y ellos son los que nos hacen más larga por temas de tiempo, ¿no?
+[16:42.000 --> 16:44.000]  Claro, claro, claro.
+[16:44.000 --> 16:50.000]  Y si al cliente se le da un precio con margen extra, ¿qué podría pasar?
+[16:50.000 --> 16:55.000]  ¿Qué podría pasar? Lo que normalmente pasa es que piden ajuste.
+[16:55.000 --> 17:00.000]  Piden ajuste, ¿no? Piden un ajuste en el precio y eso nos da a nosotros chances.
+[17:00.000 --> 17:09.000]  ¿Qué pasa? Que con nosotros le damos un precio impreciso, no, que sabemos que puede estar elevado o incrementado por un tema de cálculo.
+[17:09.000 --> 17:13.000]  Le comentamos, los clientes siempre mandan una primera cotización.
+[17:13.000 --> 17:23.000]  Puede ocurrir que lo mandan o muy detallado ya sabiendo lo que quieren o mandan algo muy general y dicen queremos conocer su propuesta.
+[17:23.000 --> 17:33.000]  Claro, entonces si nos dicen esto, un precio general incluyendo estos excedentes, estos incrementos y mandamos.
+[17:33.000 --> 17:39.000]  Esto es referencial, revísalos si esto es lo que tú necesitas o quieres hacer algún cambio, variación, ajuste.
+[17:39.000 --> 17:50.000]  Nos comentas y se hace y eso nos da tiempo para poder tener la respuesta verdadera o certera del proveedor, ¿no?
+[17:50.000 --> 17:56.000]  Para ganar la sierra, exacto.
+[17:56.000 --> 18:02.000]  Perfecto. Y bueno, ya la última sería en cuanto a los precios de los proveedores.
+[18:02.000 --> 18:05.000]  ¿Quiénes pueden verlos dentro de?
+[18:05.000 --> 18:11.000]  ¿Quiénes tienen acceso más que nada a esos precios?
+[18:11.000 --> 18:17.000]  A comercial y producción que son comerciales que es quien hace la cotización, ¿no?
+[18:17.000 --> 18:24.000]  Que tiene precios, maneja costos de manera, puede cotizar cosas de manera autónoma.
+[18:24.000 --> 18:29.000]  Sin embargo, para temas de proyectos, trabaja de la mano con producción.
+[18:29.000 --> 18:41.000]  Nosotros somos los que tenemos el acceso directo a esos precios porque ahí nos permite hacer la cotización, agregarle nuestro fee o ajustarse que el cliente lo decide en el momento.
+[18:41.000 --> 18:45.000]  El cliente me dice, no, me parece muy claro, mira, qué te parece, te lo puedo dejar en tanto.
+[18:45.000 --> 18:51.000]  No tengo que consultárselo a nadie más, porque ya lo manejamos nosotros de manera directa, ya tenemos comunicación.
+[18:51.000 --> 19:01.000]  ¿Qué sucede? Mira, algo, no sé, para sentirlo un poco mejor, que cuando ocurren cotizaciones, por ejemplo, ha llegado una cotización el día de ayer.
+[19:01.000 --> 19:06.000]  El día de ayer nosotros le hemos evaluado y todo, dijimos, ya, mira, se le puede dar este precio.
+[19:06.000 --> 19:08.000]  Siendo sábado que nadie te contesta, ¿no?
+[19:08.000 --> 19:09.000]  Claro.
+[19:09.000 --> 19:13.000]  Y hemos sacado un precio y hemos decidido que le vamos a mandar este precio.
+[19:13.000 --> 19:20.000]  Entonces, ¿qué sucede? Que viene, es domingo a hoy día, mañana es lunes y la cotización se tiene que aprobar al toque.
+[19:20.000 --> 19:23.000]  Entonces, dijimos, ok, el precio que le vamos a mandar es este.
+[19:23.000 --> 19:30.000]  Si el cliente probablemente pide ajuste, le vamos a, se puede bajar hasta esto, ¿no?
+[19:30.000 --> 19:34.000]  Y si quiere más bajo, ahí habría que hacerle algunas modificaciones de material.
+[19:34.000 --> 19:39.000]  Entonces, ya tuvimos esa comunicación previa, en la cual yo no necesito estar atrás de la producción.
+[19:39.000 --> 19:41.000]  Oye, me dijo tal cosa que se puede hacer.
+[19:41.000 --> 19:45.000]  Yo ya sé hasta dónde yo puedo ajustar y qué tipo de cambios puedo hacerlo.
+[19:45.000 --> 19:52.000]  Entonces, eso ya queda en base al cliente y si se cierra genial y si no, pues vamos a la siguiente, ¿no?
+[19:52.000 --> 19:55.000]  A la siguiente prospección.
+[19:55.000 --> 19:57.000]  Pero así es este negocio.
+[19:57.000 --> 19:58.000]  Claro, claro.
+[19:58.000 --> 20:01.000]  Bueno, perfecto, con eso nos queda bastante claro.
+[20:01.000 --> 20:02.000]  Claro.
+[20:02.000 --> 20:05.000]  Y bueno, esas eran todas las preguntas.
+[20:05.000 --> 20:07.000]  Allá no tenemos nada más que mostrar por ahora.
+[20:07.000 --> 20:10.000]  Entonces, bueno, muchas gracias por su tiempo.
+[20:10.000 --> 20:13.000]  Y bueno, nos permitiría citar sus palabras.
+[20:13.000 --> 20:18.000]  Es como AR sin su nombre en nuestro trabajo.
+[20:18.000 --> 20:20.000]  ¿Qué cosa, perdón? ¿Mi nombre?
+[20:20.000 --> 20:25.000]  No, no, no, que sí nos permite citar, bueno, sus palabras en nuestro trabajo.
+[20:25.000 --> 20:26.000]  Claro que sí.
+[20:26.000 --> 20:27.000]  Perfecto.
+[20:27.000 --> 20:36.000]  Si necesitan algo más, me avisen porque lo que ustedes están poniendo en estos casos es bastante útil.
+[20:36.000 --> 20:45.000]  Y me gustaría saber si es que estoy respondiendo correctamente lo que ustedes están necesitando complementar o aportar para esto, ¿no?
+[20:45.000 --> 20:46.000]  Claro, Bruno.
+[20:46.000 --> 20:56.000]  Bueno, de hecho, está perfecto porque lo que necesitamos es su experiencia, entender cómo funciona todo el flujo y poder nosotros desarrollar.
+[20:56.000 --> 20:58.000]  Y bueno, nuestras ideas y el caso.
+[20:58.000 --> 20:59.000]  Ajá.
+[20:59.000 --> 21:00.000]  Ya, perfecto.
+[21:00.000 --> 21:01.000]  Ok, aquí muchísimas gracias.
+[21:01.000 --> 21:02.000]  Perfecto.
+[21:02.000 --> 21:03.000]  Eso sería todo.
+[21:03.000 --> 21:04.000]  Muchas gracias.
+[21:04.000 --> 21:05.000]  Ok, gracias a ti.
+[21:05.000 --> 21:06.000]  Nico.
+[21:06.000 --> 21:07.000]  Muchas gracias.
+[21:07.000 --> 21:08.000]  Ok.
+[21:08.000 --> 21:14.000]  Y ya con esto, cualquier otra consulta, te la vamos a estar comunicando por mensaje y le agregamos al contact.
+[21:14.000 --> 21:15.000]  Muchas gracias.
+[21:15.000 --> 21:16.000]  Gracias.
